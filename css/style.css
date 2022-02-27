@@ -1,0 +1,15 @@
+.afbeelding1 {
+    width: 40vw;
+}
+
+.afbeelding2 {
+    width: 40vw;
+}
+
+div {
+    display:inline;
+}
+
+.afbeelding1:hover {
+    width: 40vw;
+}
